@@ -1,0 +1,122 @@
+
+body
+{
+  width:auto;  
+  background-color: black;
+    
+}
+
+header
+{
+ padding-top: 10px;   
+  padding-bottom: 10px;  
+  width: auto;
+}
+.bien
+{
+ text-align: center;   
+ font-weight: bolder; 
+ font-size: 2.5em;
+ color:maroon;
+ font-family: 'Times New Roman';
+}
+
+.footer
+{
+ padding-top:auto  
+ padding-bottom:auto;
+ width:auto;
+ 
+    
+}
+section
+{
+    
+  width:auto;  
+  font-family: Arial;
+}
+.link
+{
+  text-align: center;  
+  font-family: 'Times New Roman';
+  word-spacing: 0.2em;
+  font-size: 1.5em;
+  color: white;
+  background-color: maroon;
+}
+footer
+{
+  text-align: center;  
+  font-family: Times New Roman;
+  font-size: 1.6em;  
+  padding-top: 0px;
+  
+}
+.photo
+{
+   padding-left: 90px;
+   padding-bottom: 0px;
+}
+img
+{
+ width: 145px;  
+ height: 145px;
+}
+
+.text
+{
+  color: orange; 
+  text-align: justify;
+  font-size: 1.6em;
+  font-weight: bold;
+  font-family: 'Times New Roman';
+  
+    
+}
+.cadre
+{
+  width: 470px;  
+  padding-right:auto;
+  height: auto;  
+}
+.navbar, form
+{
+  font-weight: bold;  
+  font-size: 1.8em;
+  
+    
+}
+.float
+{
+ float: right;  
+ width: 470px;
+    
+}
+
+.rounded
+{
+    width:470px;
+    height: auto;
+}
+.more
+{
+  color: red;  
+    
+}
+.w
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.8em;
+    padding: 8px;
+}
+.nav-item 
+{
+    font-weight: bolder;
+    color: orange;
+}
+.pour
+{
+    font-weight: bolder;
+    color:maroon;
+}
